@@ -1,0 +1,18 @@
+table {
+    border: 2px solid #ff0000;
+    position: relative;
+    width: 90%;
+    height: 250px;
+    padding: 3px;
+    margin: 7px;
+    top: 14px;
+}
+
+td {
+    border: 1px solid #aafaaa;
+}
+
+#button {
+    color: #ff0000;
+    background-color: #aafaaa;
+}
